@@ -1,6 +1,6 @@
 Name:		texlive-luafindfont
 Version:	64936
-Release:	1
+Release:	2
 Summary:	Search fonts in the LuaTeX font database
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luafindfont
